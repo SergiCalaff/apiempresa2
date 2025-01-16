@@ -10,7 +10,6 @@ import org.springframework.web.bind.annotation.RestController;
 import com.apirest.apiempresa2.models.Empresa;
 import com.apirest.apiempresa2.services.EmpresaService;
 import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.RequestParam;
 
 
 @RestController
